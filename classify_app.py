@@ -9,7 +9,6 @@ Original file is located at
 
 
 import streamlit as st
-import cv2
 
 def main():
     new_title = '<p style="font-size: 42px;">Welcome to my Object Detection App!</p>'
